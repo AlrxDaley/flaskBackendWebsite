@@ -24,5 +24,11 @@
    "workbench.colorTheme": "Visual Studio Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
    "editor.defaultFormatter": "HookyQR.beautify",
-   "python.linting.pydocstyleEnabled": true
+   "python.linting.pydocstyleEnabled": true,
+   "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+   },
+   "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+   }
 }
